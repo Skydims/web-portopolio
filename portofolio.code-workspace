@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "to do list",
+		"code-runner.runInTerminal": true,
+		"code-runner.saveFileBeforeRun": true
+	}
+}
